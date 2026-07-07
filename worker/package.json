@@ -10,7 +10,7 @@
 		"format": "vp fmt"
 	},
 	"devDependencies": {
-		"vite-plus": "^0.2.1",
-		"wrangler": "^4.105.0"
+		"vite-plus": "^0.2.3",
+		"wrangler": "^4.107.0"
 	}
 }
