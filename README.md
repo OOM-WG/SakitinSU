@@ -2,7 +2,7 @@
 
 Android root 方案与管理工具
 
-`A Comprehensive Android Root Implementation & Manager.`
+`A Comprehensive Android Root Solution & Manager`
 
 [![Releases](https://img.shields.io/github/v/release/OOM-WG/ShiroSU?label=Release&logo=github)](https://github.com/OOM-WG/ShiroSU/releases/latest) [![License](https://img.shields.io/github/license/OOM-WG/ShiroSU?logo=bsd)](/LICENSE) ![Downloads](https://img.shields.io/github/downloads/OOM-WG/ShiroSU/total)
 
